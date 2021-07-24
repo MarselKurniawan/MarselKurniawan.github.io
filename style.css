@@ -1,0 +1,120 @@
+body{
+    background-color: rgb(59, 59, 59);
+    font-family: Comic Sans MS;
+}
+.card-tittle {
+    text-transform: uppercase;
+    
+}
+.jumbotron{
+    padding-top: 2rem;
+    background-attachment: fixed;
+    background-image: url(./saat.jpg);
+    background-position: center;
+}
+button {
+    background-color: #0099FF;
+    border-radius: .5rem;
+    border-color: white;
+}
+#tentang {
+    background-color: #0099FF;
+    color: white;
+}
+#kegiatan {
+    background-color: #273036;
+    color: lightblue;
+    padding-bottom: 10rem;
+}
+.Photo {
+    background-color: blue;    
+    width: 80%;
+    padding: 0 10px;
+}
+.web{
+    background-color: blue;    
+    width: 70%;
+    padding: 0 10px;
+}
+.dev{
+    background-color: blue;    
+    width: 20%;
+    padding: 0 10px;
+}
+.vid{
+    background-color: blue;    
+    width: 90%;
+    padding: 0 10px;
+}
+.foto{
+    background-color: blue;    
+    width: 78%;
+    padding: 0 10px;
+}
+.game{
+    background-color: blue;    
+    width: 89%;
+    padding: 0 10px;
+}
+.hack{
+    background-color: blue;    
+    width: 100%;
+    padding: 0 10px;
+}
+.tidur{
+    background-color: blue;    
+    width: 100%;
+    padding: 0 10px;
+}
+
+
+
+footer{
+    background-color: #000000;
+    color: white;
+    font-size: 1rem;
+    margin-bottom: -2rem; 
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+}
+.footer-bawah{
+    font-size: 1rem;
+    background-color:#273036;
+    align-items: center;
+    text-align: center;
+}
+
+.col{
+    margin-top: 5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
